@@ -1,0 +1,8 @@
+{
+  "parent": "block/outer_stairs",
+  "textures": {
+    "bottom": "grog4rmod:blocks/banana_planks",
+    "top": "grog4rmod:blocks/banana_planks",
+    "side": "grog4rmod:blocks/banana_planks"
+  }
+}

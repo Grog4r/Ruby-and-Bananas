@@ -1,0 +1,7 @@
+
+{
+  "parent": "block/button_pressed",
+  "textures": {
+    "texture": "grog4rmod:blocks/banana_planks"
+  }
+}

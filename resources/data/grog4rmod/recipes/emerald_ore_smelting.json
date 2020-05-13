@@ -1,0 +1,7 @@
+{
+  "type": "minecraft:smelting",
+  "ingredient": { "item": "grog4rmod:ruby_ore" },
+  "result": "grog4rmod:ruby",
+  "experience": 3.0,
+  "cookingtime": 200
+}

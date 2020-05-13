@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ggx",
+    "gdg",
+    "ggg"
+  ],
+  "key": {
+    "x": {
+      "item": "grog4rmod:ruby"
+    },
+    "g": {
+      "item": "minecraft:gold_block"
+    },
+    "d": {
+      "item": "minecraft:diamond_block"
+}
+  },
+  "result": {
+    "item": "grog4rmod:ruby_ring"
+  }
+}

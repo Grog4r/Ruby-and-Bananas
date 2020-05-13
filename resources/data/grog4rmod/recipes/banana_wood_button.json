@@ -1,0 +1,14 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "x"
+  ],
+  "key": {
+    "x": {
+      "item": "grog4rmod:banana_planks"
+    }
+  },
+  "result": {
+    "item": "grog4rmod:banana_wood_button"
+  }
+}

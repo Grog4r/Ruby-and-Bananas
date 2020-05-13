@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "axis=y":  { "model": "grog4rmod:block/banana_log" },
+    "axis=z":  { "model": "grog4rmod:block/banana_log", "x": 90 },
+    "axis=x":  { "model": "grog4rmod:block/banana_log", "x": 90, "y": 90 }
+  }
+}

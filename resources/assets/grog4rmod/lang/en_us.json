@@ -1,0 +1,37 @@
+{
+  "item.grog4rmod.ruby": "Ruby",
+
+  "item.grog4rmod.ruby_sword": "Ruby Sword",
+  "item.grog4rmod.ruby_pickaxe": "Ruby Pickaxe",
+  "item.grog4rmod.ruby_axe": "Ruby Axe",
+  "item.grog4rmod.ruby_shovel": "Ruby Shovel",
+  "item.grog4rmod.ruby_hoe": "Ruby Hoe",
+
+  "item.grog4rmod.ruby_ring": "Ruby Ring",
+
+  "item.grog4rmod.banana_seed": "Banana Seed",
+  "item.grog4rmod.banana": "Banana",
+  "item.grog4rmod.banana_wood": "Banana Wood",
+
+  "item.grog4rmod.ruby_helmet": "Ruby Helmet",
+  "item.grog4rmod.ruby_chestplate": "Ruby Chestplate",
+  "item.grog4rmod.ruby_leggings": "Ruby Leggings",
+  "item.grog4rmod.ruby_boots": "Ruby Boots",
+
+  "block.grog4rmod.ruby_block": "Ruby Block",
+  "block.grog4rmod.ruby_ore": "Ruby Ore",
+  "block.grog4rmod.example_block": "Cookie Block",
+
+  "block.grog4rmod.banana_tree": "Banana Tree",
+
+  "block.grog4rmod.banana_planks": "Banana Planks",
+  "block.grog4rmod.banana_log": "Banana Log",
+
+  "block.grog4rmod.banana_wood_stairs": "Banana Wood Stairs",
+  "block.grog4rmod.banana_wood_fence": "Banana Wood Fence",
+  "block.grog4rmod.banana_wood_button": "Banana Wood Button",
+  "block.grog4rmod.banana_wood_pressure_plate": "Banana Wood Pressure Plate",
+  "block.grog4rmod.banana_wood_slab": "Banana Wood Slab",
+
+  "itemGroup.grog4rTab": "Grog4r"
+}

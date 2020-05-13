@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " xx",
+    " Ix",
+    " I "
+  ],
+  "key": {
+    "x": {
+      "item": "grog4rmod:ruby"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "grog4rmod:ruby_axe"
+  }
+}

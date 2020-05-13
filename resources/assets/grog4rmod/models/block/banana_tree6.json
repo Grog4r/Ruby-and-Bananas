@@ -1,0 +1,6 @@
+{
+  "parent": "block/crop",
+  "textures": {
+    "crop": "grog4rmod:blocks/banana_tree_stage6"
+  }
+}

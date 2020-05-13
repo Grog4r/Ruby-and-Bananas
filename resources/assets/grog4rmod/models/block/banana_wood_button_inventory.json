@@ -1,0 +1,6 @@
+{
+  "parent": "block/button_inventory",
+  "textures": {
+    "texture": "grog4rmod:blocks/banana_planks"
+  }
+}

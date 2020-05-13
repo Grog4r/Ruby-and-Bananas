@@ -1,0 +1,7 @@
+{
+  "parent": "block/cube_column",
+  "textures": {
+    "end": "grog4rmod:blocks/banana_log_face",
+    "side": "grog4rmod:blocks/banana_log_side"
+  }
+}

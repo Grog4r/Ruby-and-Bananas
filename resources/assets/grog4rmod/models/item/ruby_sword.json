@@ -1,0 +1,6 @@
+{
+  "parent": "item/handheld",
+  "textures": {
+    "layer0": "grog4rmod:items/ruby_sword"
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "   ",
+    "xx ",
+    "xx "
+  ],
+  "key": {
+    "x": {
+      "item": "grog4rmod:banana_wood"
+    }
+  },
+  "result": {
+    "item": "grog4rmod:banana_log"
+  }
+}

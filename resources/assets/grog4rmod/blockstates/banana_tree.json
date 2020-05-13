@@ -1,0 +1,12 @@
+{
+  "variants": {
+    "age=0": { "model":  "grog4rmod:block/banana_tree0"},
+    "age=1": { "model":  "grog4rmod:block/banana_tree1"},
+    "age=2": { "model":  "grog4rmod:block/banana_tree2"},
+    "age=3": { "model":  "grog4rmod:block/banana_tree3"},
+    "age=4": { "model":  "grog4rmod:block/banana_tree4"},
+    "age=5": { "model":  "grog4rmod:block/banana_tree5"},
+    "age=6": { "model":  "grog4rmod:block/banana_tree6"},
+    "age=7": { "model":  "grog4rmod:block/banana_tree7"}
+  }
+}

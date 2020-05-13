@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "type=bottom": { "model": "grog4rmod:block/banana_wood_slab" },
+    "type=top": { "model": "grog4rmod:block/banana_wood_slab_top" },
+    "type=double": { "model": "grog4rmod:block/banana_planks" }
+  }
+}

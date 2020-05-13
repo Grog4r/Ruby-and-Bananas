@@ -1,0 +1,6 @@
+{
+  "parent": "block/fence_post",
+  "textures": {
+    "texture": "grog4rmod:blocks/banana_planks"
+  }
+}

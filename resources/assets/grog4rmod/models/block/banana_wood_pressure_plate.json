@@ -1,0 +1,6 @@
+{
+  "parent": "block/pressure_plate_up",
+  "textures": {
+    "texture": "grog4rmod:blocks/banana_planks"
+  }
+}
